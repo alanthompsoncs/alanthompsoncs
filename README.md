@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @alanthompsoncs
-- 👀 I’m interested in becoming a software developer
+- 👀 I’m interested in becoming a software engineer
 - 🌱 I’m currently learning java
 - 💞️ I’m looking to collaborate on beginner projects
 - 📫 How to reach me: alan.thompson.cs@gmail.com
